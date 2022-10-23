@@ -3,3 +3,9 @@ Roadmap --- https://www.freecodecamp.org/news/a-complete-roadmap-for-learning-rx
 Video Kaushik Gopal intro to Rx --- https://www.youtube.com/watch?v=k3D0cWyNno4
 
 4 basic operators explained --- https://ayusch.com/understanding-rxjava-basics/
+
+
+
+
+Useful links:
+  - https://blog.mindorks.com/a-complete-guide-to-learn-rxjava-b55c0cea3631

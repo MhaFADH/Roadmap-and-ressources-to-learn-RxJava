@@ -1,0 +1,5 @@
+Roadmap --- https://www.freecodecamp.org/news/a-complete-roadmap-for-learning-rxjava-9316ee6aeda7/
+
+Video Kaushik Gopal intro to Rx --- https://www.youtube.com/watch?v=k3D0cWyNno4
+
+4 basic operators explained --- https://ayusch.com/understanding-rxjava-basics/
